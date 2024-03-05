@@ -13,17 +13,17 @@ __MACOSX
 # Jupiter Notebook #
 .pytest_cache
 __pycache__
-movie_recom/__pycache__
-movie_recom/interface/__pycache__
-movie_recom/ml_logic/__pycache__
-movie_recom/api/__pycache__
-movie_recom/notebooks/llama.bin
-movie_recom/notebooks/llama.bin
+easy_reply/__pycache__
+easy_reply/interface/__pycache__
+easy_reply/ml_logic/__pycache__
+easy_reply/api/__pycache__
+easy_reply/notebooks/llama.bin
+easy_reply/notebooks/llama.bin
 *.pyc
 *checkpoint.ipynb
 *.ipynb:Zone.Identifier
 *.ipynb_checkpoints
-movie_recom/notebooks/test.ipynb
+easy_reply/notebooks/test.ipynb
 # inteliJ #
 .idea
 *.gz
